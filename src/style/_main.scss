@@ -1,0 +1,15 @@
+body {
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	background: $grey1;
+	margin: 0;
+	padding: 0;
+	background-image: url('../assets/images/map.PNG');
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	backdrop-filter: blur(2px);
+	background-attachment: fixed;
+	box-sizing: border-box;
+}
